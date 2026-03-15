@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     // تم تصحيح السطر ده
-    base:  "/my-ai-app/",
+    base: "/my-app/",
     
     plugins: [react(), tailwindcss()],
     
